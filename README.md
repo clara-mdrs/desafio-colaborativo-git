@@ -1,5 +1,5 @@
 # desafio-colaborativo-git
-## Apresentacao
+## Apresentação
 Criei este repositório para colocar em prática o que estou aprendendo sobre Git e GitHub nas aulas de Design Profissional.
 
 ## Objetivo
