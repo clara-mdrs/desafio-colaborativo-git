@@ -1,6 +1,6 @@
 # desafio-colaborativo-git
 ## Apresentacao
-Criei este repositório para colocar em prática o que estou aprendendo sobre Git e GitHub nas aulas de Design Profissional.
+Criei este repositório para colocar em prática meus conhecimentos no Git e GitHub, aprendendo a trabalhar com branches, commits e Pull Requests nas aulas de Design Profissional e em outras áreas.
 
 ## Objetivo
 Quero aprender a organizar meus projetos, acompanhar as alterações nos arquivos e entender melhor como funcionam as branches e oo Pull Requests.
