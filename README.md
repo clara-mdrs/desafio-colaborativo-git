@@ -11,3 +11,10 @@ Quero aprender a organizar meus projetos, acompanhar as alterações nos arquivo
 - GitHub: para guardar o projeto e compartilhar as mudanças.
 - Mardown: para organizar o texto deste arquivo.
 
+## Linguagens Aprendidas
+  - HTML
+  - CSS
+  - C
+## Redes Sociais
+ - GitHub: clara-mdrs
+
